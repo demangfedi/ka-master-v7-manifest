@@ -1,0 +1,38 @@
+{
+  "name": "InformasiDunia.Online",
+  "short_name": "IDOnline",
+  "start_url": "https://www.informasidunia.online/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas tentang tutorial, trik, dan widget Blogger juga SEO,Internet dan Seputar dunia online",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-TkKIq7Tau3s/XI-C0KrLwuI/AAAAAAAAEps/zV5fJvK6-VgJ0B4evyO_HEzeeONcXaECgCLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-fKoGgNgQXKY/XI-C0MxHGMI/AAAAAAAAEpo/tuYjSTeTfwMBYDYjLc9YCnN4PAJ0Vg8IwCLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-9QxPOAOuI-M/XI-C1NpRd9I/AAAAAAAAEpw/OyCi9TUaVw09uRxrPhyWdy_VO8lDzRAvgCLcBGAs/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-8Uy1C2pi4B4/XI-C0GoySrI/AAAAAAAAEpk/-8HAzEJ9Zp02cYEQhXPSwnZ3AKsXPU47QCLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-8Uy1C2pi4B4/XI-C0GoySrI/AAAAAAAAEpk/-8HAzEJ9Zp02cYEQhXPSwnZ3AKsXPU47QCLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-_fuRWmsvvhw/VwNgCd9RvqI/AAAAAAAAmGo/IFhwNoh-_OIEsUORb-ie9gauR5HQgKAhQ/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-IppKYwel054/XI-CJvQqeSI/AAAAAAAAEpc/UEtNobm1YjEVILl7BloombwbWtE6jeoCQCLcBGAs/s1600/logoidonline.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
